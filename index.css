@@ -1,0 +1,284 @@
+html, body{
+    padding: 0px;
+    margin: 0px;
+    
+}
+#one{
+    margin-left: 50%;
+    padding-bottom: 10px;
+
+}
+
+h2{
+    color: white;
+}
+h1{
+    text-align: center;
+    padding-top: 60px;
+    font-size: 100px;
+    color: white;
+
+}
+
+.top{
+    background-image: url(images/desktop/image-header.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 700px; 
+    overflow-x: hidden;
+    
+
+    
+}
+
+
+
+.nav{
+    display: flex;
+   
+}
+
+.nav ul{
+    display: flex;
+    margin-left: 60%;
+    justify-content: space-between;
+    width: 40%;
+    padding-top: 20px;
+    text-decoration: none;
+}
+
+.nav ul li{
+    font-size: 18px;
+    text-decoration: none;
+    list-style: none;
+}
+
+.nav ul li a{
+    color: white;
+    text-decoration: none;
+    list-style: none;
+}
+
+
+.box{
+    height: 80%;
+    width: 960px;
+    float: left;
+    margin: 0 auto;
+    background-color: white;
+    
+
+}
+
+#box1{
+    height: 80%;
+    width: 50%;
+    float: left;
+    
+
+}
+
+#box2{
+
+    height: 80%;
+    width: 50%;
+    float: left;
+    background-image: url(images/desktop/image-transform.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.boxe{
+    height: 80%;
+    width: 960px;
+    float: left;
+    margin: 0 auto;
+    background-color: white;
+    
+
+}
+
+.boxes h4{
+    margin-bottom: 50px;
+}
+
+#box3{
+    height: 80%;
+    width: 50%;
+    float: left;
+    background-image: url(images/desktop/image-stand-out.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+
+}
+
+#box4{
+
+    height: 80%;
+    width: 50%;
+    float: left;
+
+}
+.below{
+    height: 80%;
+    width: 100%;
+    float: left;
+    margin: 0 auto;
+    display: flex;
+    background-color: white;
+  
+    
+    
+}
+.below h4{
+    margin-bottom: 50px;
+}
+#box5{
+    height: 80%;
+    width: 55%;
+    float: left;
+    background-image: url(images/desktop/image-graphic-design.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#box6{
+        height: 80%;
+        width: 55%;
+        float: left;
+        background-image: url(images/desktop/image-photography.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+
+    .create{
+        height: 80%;
+        width: 100%;
+        float: left;
+        /* margin: 0 auto; */
+        display: flex;
+        justify-content: space-between;
+        margin-left: 0px;
+        margin-right: 40%;
+        background-color: white;
+    
+    }
+
+    img{
+        height: 100px;
+        width: 100px;
+        border-radius: 100px;
+        
+    }
+
+    #per1{
+        margin-right: 20px;
+
+    }
+    #per2{
+        margin-right: 20px;
+
+    }
+
+    #per3{
+        margin-right: 20px;
+
+    }
+    .dessin{
+        height: 80%;
+        width: 960px;
+        float: left;
+        margin: 0 auto;
+        display: flex;
+    }
+
+    #box7{
+        height: 70%;
+        width: 315px;
+       background-image: url(images/desktop/image-gallery-milkbottles.jpg);
+       float: left;
+       background-size: cover;
+       background-repeat: no-repeat;
+    }
+    
+    #box8{
+        height: 70%;
+        width: 315px;
+        background-image: url(images/desktop/image-gallery-orange.jpg);
+        float: left;
+        background-size: cover;
+        background-repeat: no-repeat;
+     }
+     #box9{
+        height: 70%;
+        width: 315px;
+        background-image: url(images/desktop/image-gallery-cone.jpg);
+        float: left;
+        background-size: cover;
+        background-repeat: no-repeat;
+     }
+     #box10{
+        height: 70%;
+        width: 315px;
+        background-image: url(images/desktop/image-gallery-sugarcubes.jpg);
+        float: left;
+        background-size: cover;
+        background-repeat: no-repeat;
+     }
+     
+     .deal{
+        padding-left: 600px;
+        background-color: hsl(168, 34%, 41%);
+     }
+
+     .slide{
+        display: flex;
+        color: hsl(168, 34%, 41%);
+        
+     }
+
+     .slide ul{
+        display: flex;
+        gap: 20px;
+        width: 20%;
+        text-decoration: none;
+     }
+
+     
+     .slide ul li{
+        list-style: none;
+        text-decoration: none;
+        display: flex;
+     }
+     .slide ul li a{
+        color: black;
+     }
+
+     .client{
+      padding-bottom: 50px;
+     }
+
+     .person1{
+        margin-bottom: 50px;
+        padding-left: 50px;
+     }
+
+
+     
+
+
+    
+     
+
+
+
+
+
+
+
+
+ 
+
+
